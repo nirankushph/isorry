@@ -1,0 +1,37 @@
+body{
+  background-color: #f6e1e1;
+  background-image: url(https://wallpaperplay.com/walls/full/c/9/5/373631.jpg);
+
+}
+h1{
+font-family:'Euphoria Script';
+font-size: 500%;
+color: #f0134d;
+}
+
+.h1{
+  margin: auto;
+  width: 37%;
+}
+.p{
+  font-size: 250%;
+  margin: auto;
+  width: 25%;
+}
+
+img{
+  width: 70%;
+  height: 70%;
+  border: 0.5rem outset pink;
+
+  box-shadow: 0 0 0 2rem skyblue;
+  border-radius: 12px;
+  font: bold 1rem sans-serif;
+  margin: 2rem;
+
+  outline-offset: 0.5rem;
+}
+.imgf{
+  margin: auto;
+  width: 40%;
+}
